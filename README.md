@@ -1,2 +1,2 @@
 # Tylosis-Bot
-This code deals with the processing of micro-CT images of oak wood samples. Among other things, it includes a U-Net trained by me, which removes the tylosis from the earlywood vessels. The algorithms and the neural network are integrated into a GUI. This project was developed in collaboration with the German Archaeological Institute.
+This code deals with the processing of micro-CT images of oak wood samples. Among other things, it includes a U-Net trained by me, which removes the tylose from the vessels. This important process facilitates the analysis of said vessels for climate-related research. This project was developed in collaboration with the German Archaeological Institute. The algorithms and the neural network are integrated into a GUI.
