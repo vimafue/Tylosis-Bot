@@ -40,4 +40,11 @@ If you prefer a different folder structure, you will need to adjust the file pat
 
 If the GUI window opens, you can decide if you want to load one singular image or a stack of images by pressing the corresponding button. The input image/images need to be grayscale images of any size. A custom cropping algorithm is implemented into the code to scale and cut the images into the right size for the Unet input. Later the cut up images are stitched back together. The original size is not always restored after the segmentation.
 
+## Citation
+
+If you use this code or the UNet model in your research, please cite:
+
+- GitHub repository: https://github.com/vimafue/Tylosis-Bot.git
+- Model file (Zenodo DOI): https://doi.org/10.5281/zenodo.17170930
+
 
