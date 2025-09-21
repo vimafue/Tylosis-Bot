@@ -26,9 +26,11 @@ Change the settings within PyCharm to add the conda environment.
 
 ### 4. Get Model file
 The model file of the trained U-Net was too large for the GitHub repository. It can be found and downloaded on Zenodo using the following link.
-On your computer, the model file (model.h5) should be placed in the same folder as the main.py file to ensure that the program works properly
+Then save the model file model.h5 in the same folder as the main.py file to ensure that the program works properly.
 
 https://doi.org/10.5281/zenodo.17170930
+
+If you prefer a different folder structure, you will need to adjust the file paths within the Python code.
 
 ### 5. Run Tylosis-Bot
 
